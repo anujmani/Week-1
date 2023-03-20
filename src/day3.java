@@ -24,5 +24,7 @@ public class day3 {
         if(a==1 && b==1){
             a++;
          }
+        int c=a*b+a/2;
+        System.out.println(c);
     }
 }
