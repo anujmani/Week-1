@@ -1,4 +1,4 @@
-public class day2datatypes {
+public class day2datatypes{
         public static void main(String[] args) {
             int a = 3;
             String msg = "Hello";
@@ -8,9 +8,9 @@ public class day2datatypes {
             //There are two types of data types
             // They are : Primitive and non-primitive
             //In primitive datatype there are boolean, char and many more
-            //In non primitive datatype there are string, arrray etc.
+            //In non-primitive datatype there are string, arrray etc.
 
         }
     }
 
-}
+
