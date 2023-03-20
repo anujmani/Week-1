@@ -9,6 +9,7 @@ public class day2datatypes{
             // They are : Primitive and non-primitive
             //In primitive datatype there are boolean, char and many more
             //In non-primitive datatype there are string, arrray etc.
+            //long memory is of 64 bit, int is of 32 bit , float is  of 32 bit and double is of 64 bit string is of
 
         }
     }
